@@ -1,6 +1,7 @@
 The file `data_mean_summary.txt`  is the tidy data with the average of each variable for each activity and each subject.
 
 There are 4 fields: 
+
 |Field name| Data Type | Description |
 |--|--| --|
 |activity  | string | one of the 6 activities ('walking', 'walking_up', 'walking_down', 'sitting','standing', 'laying')  |

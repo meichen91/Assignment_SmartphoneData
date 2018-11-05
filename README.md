@@ -7,7 +7,7 @@ The detail of the data can be found [here](http://archive.ics.uci.edu/ml/dataset
 This repository contains
 * `data_mean_summary.txt`: tidy data with the average of each variable for each activity and each subject
 * `run_analysis.R`: the R script used to create the final tidy data
-* ``: The code book
+* `CodeBook.md`: The code book
 
 
 ## R script: `run_analysis.R`
